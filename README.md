@@ -1,4 +1,4 @@
-# Ingenieria_Caracteristicas_P2026
+# Ingeniería de Caracteristicas P2026
 
 Esta materia proporciona los fundamentos teóricos y prácticos de la ingeniería de características (feature engineering), una etapa crítica en todo proyecto de ciencia de datos y aprendizaje automático. El curso está diseñado para que el estudiante desarrolle habilidades para identificar, transformar, crear y seleccionar características relevantes a partir de datos crudos, con el objetivo de mejorar el desempeño de los modelos predictivos.
 
