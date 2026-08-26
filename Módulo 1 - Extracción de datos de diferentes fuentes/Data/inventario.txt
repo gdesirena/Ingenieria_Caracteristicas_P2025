@@ -1,0 +1,5 @@
+manzana,3
+pera,5
+plátano,2
+naranja,7
+naranja,7
